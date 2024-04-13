@@ -1,0 +1,27 @@
+.bg-overly{
+    background-image: url(../img/premier_banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-blur{
+    backdrop-filter: blur(50px);
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+}
+
+.logo img{
+    width: 100%;
+}
+
+.forget-btn{
+    color: #480ca8;
+}
+
+.sign-btn{
+    background-color: #560bad;
+}
+
